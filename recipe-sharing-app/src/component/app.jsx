@@ -1,4 +1,4 @@
-import RecipeList from './components/RecipeList';
+import RecipeList from './src/components/RecipeList';
 import AddRecipeForm from './components/AddRecipeForm';
 
 const App = () => {
